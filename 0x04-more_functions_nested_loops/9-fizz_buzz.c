@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
  * main - print 1 to 100, except certain multiples
@@ -12,6 +12,7 @@ nclude <stdio.h>
 int main(void)
 {
 int i = 2, j = 1;
+
 printf("%d", j);
 while (i < 101)
 {
