@@ -1,10 +1,3 @@
-
-#ifndef MAIN_H
-#define MAIN_H
-
-#include <stdio.h>
-#include <unistd.h>
-
 #include "main.h"
 #include <stdio.h>
 
@@ -32,4 +25,4 @@ char *_strcpy(char *dest, char *src);
 
 int _atoi(char *s);
 
-#endif
+
