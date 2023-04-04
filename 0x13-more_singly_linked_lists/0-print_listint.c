@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_listint - prints all the elements of a listint_t list.
- * @n: A pointer to the head of the list_t list.
+ * @h: A pointer to the head of the list_t list.
  *
  * Return the number of nodes in the list_t list.
  */
@@ -13,7 +13,7 @@ while (h)
 {
 nodes++;
 printf("%d\n", h->n);
-h = h->next;
+h =  h->next;
 }
 return (nodes);
 }
