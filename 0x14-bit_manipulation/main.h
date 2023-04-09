@@ -4,8 +4,8 @@
 
 /**
  * main - header files for prototypes
- * void prototypes(void)
- *int prototype(int) 
+ * void: prototypes(void)
+ *int: prototype(int) 
  */
 
 unsigned int binary_to_uint(const char *b);
