@@ -2,7 +2,7 @@
 /**
  * clear_bit -  function that sets the value of a bit to 0 at a given index
  * @index: is the index, starting from 0 of the bit you want to set to 0
- * @n: value of the numbers
+ * @n: value of the number to print
  *
  * Return: 1 if it worked, or -1 if an error occurred
  */
