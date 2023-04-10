@@ -4,7 +4,6 @@
  * to flip to get from one number to another.
  * @n: first value of number to get
  * @m: second value of number to get
- * 
  *
  * Return: number of bits to flip that get from other
  */
